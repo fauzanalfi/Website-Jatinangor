@@ -1,4 +1,4 @@
-# classrecipe-template
+# Website-Jatinangor
 ## elementary,social,classroom
 This document is made by [gitfab](http://gitfab.org)
 ---
