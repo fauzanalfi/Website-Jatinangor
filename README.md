@@ -6,7 +6,10 @@ This document is made by [gitfab](http://gitfab.org)
 Elementary School (6-12)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![anak2-sd.jpg](http://sandaranhatimu.files.wordpress.com/2009/02/anak2-sd.jpg)
+---
+#Location
+SDN 1 Jatinangor, Sumedang
 ---
 #Scale
 1 classroom (~30)
@@ -17,6 +20,11 @@ In this activity, students make a introduction movie about their own country, an
 
 
 ---
+#Item/Material/System
+* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
+* [Mozilla Thimble](http://thimble.webmaker.org/)
+* Screen for presentation
+---
 #Educational Effect
 * Search information and Remixing
 
@@ -25,9 +33,4 @@ skill
 * Presentation Skill
 * deep Knowledge for own country
 
----
-#Item/Material/System
-* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
-* Screen for presentation
 ---
