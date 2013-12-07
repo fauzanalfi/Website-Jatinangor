@@ -4,8 +4,6 @@ This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
 Elementary School (6-12)
-
-
 ![anak2-sd.jpg](http://sandaranhatimu.files.wordpress.com/2009/02/anak2-sd.jpg)
 ---
 #Location
@@ -26,11 +24,10 @@ In this activity, students make a introduction movie about their own country, an
 * Screen for presentation
 ---
 #Educational Effect
-* Search information and Remixing
-
-skill
-
+* Search information and Remixing skill
 * Presentation Skill
 * deep Knowledge for own country
 
+---
+undefined
 ---
